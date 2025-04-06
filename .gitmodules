@@ -1,0 +1,3 @@
+[submodule "Pacman"]
+	path = Pacman
+	url = https://github.com/sunghogo/Pacman
