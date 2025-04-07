@@ -1,3 +1,6 @@
 [submodule "Pacman"]
 	path = Pacman
 	url = https://github.com/sunghogo/Pacman
+[submodule "FlappyBird"]
+	path = FlappyBird
+	url = https://github.com/sunghogo/FlappyBird.git
