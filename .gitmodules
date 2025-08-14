@@ -4,3 +4,6 @@
 [submodule "FlappyBird"]
 	path = FlappyBird
 	url = https://github.com/sunghogo/FlappyBird.git
+[submodule "Snake"]
+	path = Snake
+	url = https://github.com/sunghogo/Snake.git
