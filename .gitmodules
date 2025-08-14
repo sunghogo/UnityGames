@@ -7,3 +7,6 @@
 [submodule "Snake"]
 	path = Snake
 	url = https://github.com/sunghogo/Snake.git
+[submodule "Breakout"]
+	path = Breakout
+	url = https://github.com/sunghogo/Breakout.git
