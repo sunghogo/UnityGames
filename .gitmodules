@@ -10,3 +10,6 @@
 [submodule "Breakout"]
 	path = Breakout
 	url = https://github.com/sunghogo/Breakout.git
+[submodule "GeometryWars"]
+	path = GeometryWars
+	url = https://github.com/sunghogo/GeometryWars.git
