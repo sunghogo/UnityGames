@@ -16,9 +16,6 @@
 [submodule "DungeonCrawler"]
 	path = DungeonCrawler
 	url = https://github.com/sunghogo/DungeonCrawler.git
-[submodule "MineSweeper"]
-	path = MineSweeper
-	url = https://github.com/sunghogo/MineSweeper.git
 [submodule "TowerDefense"]
 	path = TowerDefense
 	url = https://github.com/sunghogo/TowerDefense
