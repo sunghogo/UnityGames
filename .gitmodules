@@ -19,3 +19,6 @@
 [submodule "MatchThree"]
 	path = MatchThree
 	url = https://github.com/sunghogo/MatchThree.git
+[submodule "Minesweeper"]
+	path = Minesweeper
+	url = https://github.com/sunghogo/Minesweeper.git
