@@ -22,3 +22,6 @@
 [submodule "Minesweeper"]
 	path = Minesweeper
 	url = https://github.com/sunghogo/Minesweeper.git
+[submodule "TowerDefense"]
+	path = TowerDefense
+	url = https://github.com/sunghogo/TowerDefense.git
